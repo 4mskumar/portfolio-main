@@ -1,13 +1,13 @@
 export const projects = [
   {
-    imageUrl: "https://www.majorandminorhire.co.nz/product/coming-soon-2-tiered-signage-frame/",
+    imageUrl: "/images/soon.jpg",
     projectUrl: "https://job-portal-git-main-sahil-kumar-1.vercel.app/",
     title: "Kairo:AI Smart Study Scheduler",  
     type: "Full Stack App",
     status: "In Progress",
   },
   {
-    imageUrl: "https://www.majorandminorhire.co.nz/product/coming-soon-2-tiered-signage-frame/",
+    imageUrl: "/images/soon.jpg",
     projectUrl: "https://job-portal-git-main-sahil-kumar-1.vercel.app/",
     title: "Wave:India ka apna social media",  
     type: "Full Stack App",
@@ -58,3 +58,4 @@ export const projects = [
   ];
 
   
+
